@@ -1,7 +1,7 @@
 # PhysiqueApp
 
-Repository de notebooks pour les dimensionnements et les calculs dans le domaine de la thermique et de la mécanique des fluides
+Repository of notebooks for thermal and fluid mechanics design and calculations
 
-## Centrale de Traitement d'Air (CTA)
+## Air Handling Unit (AHU)
 
-Dossier contenant le dimensionnement d'une CTA par étape
+File containing the sizing of an AHU by stage
