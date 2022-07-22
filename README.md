@@ -1,4 +1,4 @@
-# FluidsAndThermalEngineering
+# Fluids And Thermal Engineering
 
 Repository of notebooks for thermal and fluid mechanics design and calculations
 
